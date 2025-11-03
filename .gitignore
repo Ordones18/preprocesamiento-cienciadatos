@@ -1,3 +1,10 @@
-# Archivos .pyc
-# Directorios .vscode y __pycache__
-# Archivos de configuración local (.env)
+# Archivos de caché de Python 
+.pyc
+# Directorio de configuración del editor específico del usuario
+.vscode/
+# Archivo de variables de entorno contiene información sensible
+.env
+# Entorno virtual se debe recrear a partir de requirements.txt
+.venv/
+# Archivos de datos de salida 
+.csv
