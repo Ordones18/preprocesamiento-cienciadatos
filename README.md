@@ -1,5 +1,5 @@
 # Nombre del proyecto 
-# =============== Preprocesamiento de Datos del Titanic ====================
+# === Preprocesamiento de Datos del Titanic ===
 
 # == OBJETIVO ===
 ```
@@ -12,12 +12,10 @@ Generar un conjunto de datos final, limpio y listo para ser usado.
 # La estructura del proyecto está organizada de la siguiente manera:
 
 ```
-preprocesamiento-cienciadatos/
+preprocesamiento-ciencia-datos/
 │
-├── .gitignore          # Archivos y carpetas a ignorar por Git (entornos, datos)
-├── README.md           # Este archivo, la documentación principal del proyecto.
-├── requirements.txt    # Lista de dependencias de Python para replicar el entorno.
-├── preprocess.py       # Script principal que contiene todas las etapas de preprocesamiento.
-│
-└─── data/              # Carpeta para almacenar el dataset
+|--.gitignore          # Archivos y carpetas a ignorar por Git
+|-- README.md           # Documentación principal del proyecto
+|-- preprocesamiento.py # Script con las etapas de limpieza de datos
+|-- DOCUMENTACION.md    # Informe de la actividad
 ```
