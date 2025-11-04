@@ -36,7 +36,7 @@ A continuación, se presenta la evidencia visual del flujo de trabajo seguido.
 
 Crea un repositorio en GitHub llamado preprocesamiento-cienciadatos
 
-![WhatsApp Image 2025-11-03 at 19 26 02](https://github.com/user-attachments/assets/1347ceb4-9d71-4023-8da0-dd2b3c26dfd6)
+
 
 
 
