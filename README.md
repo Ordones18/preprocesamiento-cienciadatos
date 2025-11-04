@@ -15,6 +15,7 @@ Generar un conjunto de datos final, limpio y listo para ser usado.
 preprocesamiento-ciencia-datos/
 │
 |--.gitignore          # Archivos y carpetas a ignorar por Git
+|-- imagenes          # Imagenes del proyecto
 |-- README.md           # Documentación principal del proyecto
 |-- preprocesamiento.py # Script con las etapas de limpieza de datos
 |-- DOCUMENTACION.md    # Informe de la actividad
