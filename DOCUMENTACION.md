@@ -1,4 +1,3 @@
-```
 # Informe de Actividad: Control de Versiones y Preprocesamiento de Datos
 
 ## 1. Introducción
@@ -34,10 +33,10 @@ Este proceso de Integración Continua garantiza que el código en la rama princi
 
 A continuación, se presenta la evidencia visual del flujo de trabajo seguido.
 
-Crea un repositorio en GitHub llamado preprocesamiento-cienciadatos
-
-
-
-
-
-```
+## 1. Crea un repositorio en GitHub llamado preprocesamiento-cienciadatos
+![Paso 1](Paso1.jpeg)
+## 2. Configura el archivo. gitignore para evitar subir archivos innecesarios
+![Paso 2](Paso2.jpeg)
+## 3. Realiza un commit inicial con un archivo README.md
+![Paso 3](Paso3.jpeg)
+![Paso 4](Paso4.jpeg)
