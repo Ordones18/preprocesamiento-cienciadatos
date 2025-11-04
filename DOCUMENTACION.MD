@@ -33,5 +33,6 @@ Este proceso de Integración Continua garantiza que el código en la rama princi
 ## 4. Evidencia y Capturas de Pantalla
 
 A continuación, se presenta la evidencia visual del flujo de trabajo seguido.
-https://github.com/Ordones18/preprocesamiento-cienciadatos/issues/2#issue-3584238099
+
+
 
