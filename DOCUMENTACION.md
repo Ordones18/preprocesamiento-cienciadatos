@@ -61,7 +61,9 @@ Para añadir el script de preprocesamiento, se creó una rama aislada llamada `f
 Una vez finalizado el script, se abrió un Pull Request en GitHub para proponer la integración de los cambios a la rama `main`. Tras la revisión (simulada), el PR fue fusionado.
 
 ![Creación del Pull Request](imagenes/Paso8.jpeg)
+![Completado](imagenes/Paso9.jpeg)
 ![Fusión del PR completada](imagenes/Paso10.jpeg)
+![Coompleto](imagenes/Paso11.jpeg)
 
 ---
 
