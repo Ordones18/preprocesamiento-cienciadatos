@@ -27,6 +27,7 @@ El workflow, definido en el archivo `.github/workflows/python-ci.yml`, realiza l
 4.  **Ejecución y Validación:** Finalmente, ejecuta el script `preprocesamiento.py`.
 
 Durante la implementación, este workflow **fue importante para detectar un problema de dependencias**. La ejecución inicial falló porque el archivo `requirements.txt` contenía versiones de librerías "fijadas" que no eran compatibles con el entorno de Actions. La solución fue modificar el `requirements.txt` para no especificar versiones, permitiendo que `pip` resolviera las dependencias compatibles automáticamente. La ejecución posterior del workflow fue exitosa, validando el arreglo y garantizando la **reproducibilidad** del proyecto.
+![Fallo](imagenes/Paso13.jpg)
 
 ## 4. Evidencia del Flujo de Trabajo
 
