@@ -34,7 +34,6 @@ Este proceso de Integración Continua garantiza que el código en la rama princi
 
 A continuación, se presenta la evidencia visual del flujo de trabajo seguido.
 
-Crea un repositorio en GitHub llamado preprocesamiento-cienciadatos
-
 ```
+# Crea un repositorio en GitHub llamado preprocesamiento-cienciadatos
 ![Descripción de la imagen](Paso1.jpeg)
