@@ -44,6 +44,8 @@ Se creó el repositorio en GitHub, se configuró el archivo `.gitignore` y se re
 ### Clonar el repositorio para usar el IDE Visual Studio Code
 
 ![Commit del script en la nueva rama](imagenes/Paso5.jpeg)
+#### Verificamos nuestro usuario y correo de Git Hub
+![Confirmar usario y correo de git](imagenes/Paso6.jpeg)
 
 ### Desarrollo en Ramas 
 
@@ -67,4 +69,4 @@ Una vez finalizado el script, se abrió un Pull Request en GitHub para proponer 
 
 Finalmente, el workflow de CI se ejecutó automáticamente tras la fusión, validando que el código integrado en `main` era funcional y pasaba todas las pruebas (instalación y ejecución del script).
 
-![Ejecución exitosa del workflow de CI](imagenes/Paso12.png)
+![Ejecución exitosa del workflow de CI](imagenes/Paso12.jpg)
