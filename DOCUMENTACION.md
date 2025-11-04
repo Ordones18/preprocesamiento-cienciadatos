@@ -34,21 +34,21 @@ Este proceso de Integración Continua garantiza que el código en la rama princi
 A continuación, se presenta la evidencia visual del flujo de trabajo seguido.
 
 ## 1. Crea un repositorio en GitHub llamado preprocesamiento-cienciadatos
-![Paso 1](Paso1.jpeg)
+![Paso 1](imagenes/Paso1.jpeg)
 ## 2. Configura el archivo. gitignore para evitar subir archivos innecesarios
-![Paso 2](Paso2.jpeg)
+![Paso 2](imagenes/Paso2.jpeg)
 ## 3. Realiza un commit inicial con un archivo README.md
-![Paso 3](Paso3.jpeg)
-![Paso 4](Paso4.jpeg)
+![Paso 3](imagenes/Paso3.jpeg)
+![Paso 4](imagenes/Paso4.jpeg)
 
 # PARTE 2: Implementación de Git y GitHub
 ## 1. Clonación y Configuración:
-![Paso 5](Paso5.jpeg)
-![Paso 6](Paso6.jpeg)
+![Paso 5](imagenes/Paso5.jpeg)
+![Paso 6](imagenes/Paso6.jpeg)
 ## 2. Creación y Gestión de Ramas:
-![Paso 7](Paso7.jpeg)
+![Paso 7](imagenes/Paso7.jpeg)
 ## 3. Pull Request y Fusión:
-![Paso 8](Paso8.jpeg)
-![Paso 9](Paso9.jpeg)
-![Paso 10](Paso10.jpeg)
-![Paso 11](Paso11.jpeg)
+![Paso 8](imagenes/Paso8.jpeg)
+![Paso 9](imagenes/Paso9.jpeg)
+![Paso 10](imagenes/Paso10.jpeg)
+![Paso 11](imagenes/Paso11.jpeg)
