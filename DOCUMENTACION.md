@@ -40,3 +40,15 @@ A continuación, se presenta la evidencia visual del flujo de trabajo seguido.
 ## 3. Realiza un commit inicial con un archivo README.md
 ![Paso 3](Paso3.jpeg)
 ![Paso 4](Paso4.jpeg)
+
+# PARTE 2: Implementación de Git y GitHub
+## 1. Clonación y Configuración:
+![Paso 5](Paso5.jpeg)
+![Paso 6](Paso6.jpeg)
+## 2. Creación y Gestión de Ramas:
+![Paso 7](Paso7.jpeg)
+## 3. Pull Request y Fusión:
+![Paso 8](Paso8.jpeg)
+![Paso 9](Paso9.jpeg)
+![Paso 10](Paso10.jpeg)
+![Paso 11](Paso11.jpeg)
