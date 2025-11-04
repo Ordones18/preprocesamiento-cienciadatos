@@ -39,14 +39,18 @@ Se creó el repositorio en GitHub, se configuró el archivo `.gitignore` y se re
 ![Configuración del repositorio](imagenes/Paso1.jpeg)
 ![Commit Inicial desde la terminal](imagenes/Paso4.jpeg)
 
+
 ---
+### Clonar el repositorio para usar el IDE Visual Studio Code
+
+![Commit del script en la nueva rama](imagenes/Paso5.jpeg)
 
 ### Desarrollo en Ramas 
 
 Para añadir el script de preprocesamiento, se creó una rama aislada llamada `feature-preprocesamiento` para no afectar la rama principal `main` durante el desarrollo.
 
 ![Creación de la rama feature-preprocesamiento](imagenes/Paso7.jpeg)
-![Commit del script en la nueva rama](imagenes/Paso5.jpeg)
+
 
 ---
 
